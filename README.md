@@ -18,7 +18,6 @@ This project analyzes IMDB movie reviews using text data to explore public senti
 ## 🧰 Tools Used
 `Python` · `Pandas` · `Matplotlib` · `NLTK` · `Datasets (Hugging Face)`
 
----
 
 📁 **Files Included**
 | File | Description |
@@ -27,10 +26,10 @@ This project analyzes IMDB movie reviews using text data to explore public senti
 | `imdb_download.ipynb` | Dataset download notebook |
 | `imdb_reviews_small.csv` | Cleaned and sampled dataset |
 
----
 
-Submitted by: **Anzuman Ara**  
-Submitted for: *Module 2 Mini Assignment
+Submitted by: Anzuman Ara 
+Submitted for:Module 2 Mini Assignment
+
 
 
 
