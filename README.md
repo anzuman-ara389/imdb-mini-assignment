@@ -5,13 +5,13 @@ This project analyzes IMDB movie reviews using text data to explore public senti
 ## 📊 Methods Used
 - Data loading from Hugging Face dataset
 - Exploratory Data Analysis (EDA)
-- Text cleaning (stopword removal, tokenization)
+- Text cleaning (stopword removal)
 - Visualization of positive vs negative reviews
 - VADER sentiment analysis
 
 ## 💡 Key Insights
 - Dataset: 2,000 IMDB reviews (balanced positive & negative)
-- Frequent words: *movie, film, story, good, love*
+- Frequent words: *movie, film, story, good*
 - Positive reviews use emotional & descriptive words
 - Negative reviews focus on plot or disappointment
 
@@ -29,7 +29,8 @@ This project analyzes IMDB movie reviews using text data to explore public senti
 
 ---
 
-👩‍💻 Author: **Anzuman Ara**  
-📅 Submitted for: *Module 2 Mini Assignment (Roman Jurowetzki)*
+Submitted by: **Anzuman Ara**  
+Submitted for: *Module 2 Mini Assignment
+
 
 
